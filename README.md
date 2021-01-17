@@ -1,0 +1,2 @@
+# Pepy
+Pepcoin automation
