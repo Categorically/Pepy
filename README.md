@@ -8,4 +8,4 @@
 * Authorize with pepcoin
 * submit snack codes
 # WIKI
-https://github.com/Categorically/Pepy.wiki
+https://github.com/Categorically/Pepy/wiki
