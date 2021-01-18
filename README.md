@@ -7,5 +7,5 @@
 * Login with AWSSRP
 * Authorize with pepcoin
 * submit snack codes
-#WIKI
+# WIKI
 https://github.com/Categorically/Pepy.wiki.git
